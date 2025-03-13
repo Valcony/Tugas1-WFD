@@ -13,7 +13,7 @@
             <p class="font-primary text-neutral-50">Stray Kids everywhere all around the world</p>
             <p class="font-primary text-neutral-50 py-2">You make Stray Kids STAY</p>
         </div>
-        <div class="w-full text-center bg-neutral-50 py-10 px-4">
+        <div class="w-full text-center bg-neutral-50 py-16 px-4">
             <p class="font-primary text-neutral-950 lg:text-6xl md:text-4xl text-3xl font-semibold">MERCHANDISE</p>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mx-20 my-10">
                 <!-- Product 1 -->
@@ -163,12 +163,16 @@
 
 
         </div>
-        <div class="w-full text-center bg-neutral-900 py-10 px-4">
-            <p class="font-primary text-neutral-50 lg:text-6xl md:text-4xl text-3xl font-semibold">LATEST RELEASE</p>
-
+        <div class="w-full text-center bg-neutral-900 py-16 px-4 justify-items-center">
+            <p class="font-primary text-neutral-50 lg:text-6xl md:text-4xl text-3xl font-semibold mt-1">LATEST RELEASE</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ovHoY8UBIu8?si=A6zd8cXRuwRa7pWG"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="py-10"></iframe>
+            <p class="font-secondary text-white -mt-2">Stray Kids "Walkin On Water" M/V</p>
             <button
-                class="mt-2 px-6 py-3 text-white bg-red-600 rounded-md font-semibold text-lg shadow-md transition-transform duration-300 hover:bg-red-700 hover:-translate-y-1 hover:shadow-lg">
-                <a href="/shop">Watch Now</a>
+                class="mt-10 px-6 py-3 text-white bg-red-600 rounded-md font-semibold text-lg shadow-md transition-transform duration-300 hover:bg-red-700 hover:-translate-y-1 hover:shadow-lg">
+                <a href="https://www.youtube.com/watch?v=ovHoY8UBIu8">Watch Now</a>
             </button>
 
 
