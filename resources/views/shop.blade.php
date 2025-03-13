@@ -44,7 +44,6 @@
                 </div>
             </div>
 
-            <!-- Product Grid -->
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                 <!-- Product 1 -->
                 <div
@@ -100,7 +99,7 @@
                 <div
                     class="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg">
                     <div class="relative overflow-hidden group">
-                        <img src="/api/placeholder/400/320" alt="HOP Logo T-shirt"
+                        <img src="https://m.en.thejypshop.com/web/product/small/202501/4e3a4c361ab5abe510c9400da0e9851f.png" alt="Stray Kids SKZOO KEYRING MICRO Ver. - SKZ 5'CLOCK"
                             class="w-full h-64 object-cover object-center transition-transform duration-500 group-hover:scale-105">
 
                         <div
@@ -113,13 +112,13 @@
                     </div>
 
                     <div class="p-4">
-                        <div class="text-xs text-gray-500 mb-1">Apparel</div>
-                        <h3 class="text-gray-900 font-semibold text-lg mb-1">HOP Logo T-shirt</h3>
+                        <div class="text-xs text-gray-500 mb-1">SKZOO</div>
+                        <h3 class="text-gray-900 font-semibold text-lg mb-1">Stray Kids SKZOO KEYRING MICRO Ver. - SKZ 5'CLOCK</h3>
 
 
                         <div class="flex justify-between items-center">
                             <div>
-                                <span class="text-gray-900 font-bold">$32.99</span>
+                                <span class="text-gray-900 font-bold">$12.00</span>
                             </div>
 
                             <button class="text-red-600 hover:text-red-500 focus:outline-none" onclick="addToWishlist(2)">
@@ -140,7 +139,7 @@
                 <div
                     class="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg">
                     <div class="relative overflow-hidden group">
-                        <img src="/api/placeholder/400/320" alt="Member Photo Card Set"
+                        <img src="https://m.en.thejypshop.com/web/product/small/202410/362491d1d19fba31131270f604fa8cf6.jpg" alt="Stray Kids 2025 Season’s Greetings [The Street Kids]"
                             class="w-full h-64 object-cover object-center transition-transform duration-500 group-hover:scale-105">
 
                         <div class="absolute top-2 left-2 bg-red-600 text-white text-xs font-bold px-2 py-1 rounded">
@@ -157,11 +156,11 @@
                     </div>
 
                     <div class="p-4">
-                        <div class="text-xs text-gray-500 mb-1">Accessories</div>
-                        <h3 class="text-gray-900 font-semibold text-lg mb-1">Member Photo Card Set</h3>
+                        <div class="text-xs text-gray-500 mb-1">Season's Greetings</div>
+                        <h3 class="text-gray-900 font-semibold text-lg mb-1">Stray Kids 2025 Season’s Greetings [The Street Kids]</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <span class="text-gray-900 font-bold">$32.99</span>
+                                <span class="text-gray-900 font-bold">$45.00</span>
                             </div>
 
                             <button class="text-red-600 hover:text-red-500 focus:outline-none" onclick="addToWishlist(2)">
@@ -176,6 +175,48 @@
 
                     </div>
                 </div>
+
+                <!-- Product 4 -->
+                <div
+                    class="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg">
+                    <div class="relative overflow-hidden group">
+                        <img src="https://m.en.thejypshop.com/web/product/small/202501/05071a5062a95b91b8e8fe248aaa04b9.png" alt="Stray Kids SKZOO KEYRING MICRO Ver. - SKZ 5'CLOCK"
+                            class="w-full h-64 object-cover object-center transition-transform duration-500 group-hover:scale-105">
+
+                        <div
+                            class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                            <button
+                                class="bg-white text-gray-900 px-4 py-2 rounded-full font-medium hover:bg-red-600 hover:text-white transition-colors duration-200 mx-1 transform -translate-y-4 group-hover:translate-y-0 transition-transform duration-300">
+                                Quick View
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="p-4">
+                        <div class="text-xs text-gray-500 mb-1">SKZOO</div>
+                        <h3 class="text-gray-900 font-semibold text-lg mb-1">Stray Kids SKZOO HOOD BLANKET - SKZ 5'CLOCK</h3>
+
+
+                        <div class="flex justify-between items-center">
+                            <div>
+                                <span class="text-gray-900 font-bold">$56.00</span>
+                            </div>
+
+                            <button class="text-red-600 hover:text-red-500 focus:outline-none" onclick="addToWishlist(2)">
+                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z">
+                                    </path>
+                                </svg>
+                            </button>
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+                
             </div>
         </div>
     </div>

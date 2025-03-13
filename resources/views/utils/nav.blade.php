@@ -31,7 +31,7 @@
 </style>
 
 <!-- Navbar -->
-<nav id="navbar" class="navbar bg-white py-4 px-6 shadow-sm font-secondary w-full">
+<nav id="navbar" class="navbar bg-white py-4 px-6 shadow-sm font-secondary w-full z-[999]">
     <div class="max-w-7xl mx-auto">
         <div class="flex justify-between items-center">
             <!-- Logo -->
