@@ -3,10 +3,17 @@
     <div class="w-full h-auto py-15">
         <div class="justify-items-center items-center text-center">
             <h2 class="font-primary text-3xl">LATEST</h2>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/ovHoY8UBIu8?si=A6zd8cXRuwRa7pWG"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="py-10"></iframe>
+            <div class="relative lg:w-[600px] md:w-[500px] w-[300px] mx-auto py-10">
+                <div class="relative w-full pb-[56.25%]">
+                    <iframe class="absolute top-0 left-0 w-full h-full"
+                        src="https://www.youtube.com/embed/ovHoY8UBIu8?si=A6zd8cXRuwRa7pWG" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
             <p class="font-secondary">Stray Kids "Walkin On Water" M/V</p>
         </div>
         <div class="mx-20 my-20">
@@ -22,16 +29,14 @@
                 </div>
                 <div class="text-center">
                     <a href="https://www.youtube.com/watch?v=0P0aQreFs8w" target="_blank">
-                        <img src="https://i.ytimg.com/vi/0P0aQreFs8w/hq720.jpg"
-                            alt="Stray Kids 'Chk Chk Boom' M/V"
+                        <img src="https://i.ytimg.com/vi/0P0aQreFs8w/hq720.jpg" alt="Stray Kids 'Chk Chk Boom' M/V"
                             class="w-full rounded-lg cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-105 hover:drop-shadow-md">
                     </a>
                     <p class="font-secondary mt-2">Stray Kids "Chk Chk Boom" M/V</p>
                 </div>
                 <div class="text-center">
                     <a href="https://www.youtube.com/watch?v=dBDkYofMUs4" target="_blank">
-                        <img src="https://i.ytimg.com/vi/dBDkYofMUs4/hq720.jpg"
-                            alt="Stray Kids '락 (樂) (LALALALA)' M/V"
+                        <img src="https://i.ytimg.com/vi/dBDkYofMUs4/hq720.jpg" alt="Stray Kids '락 (樂) (LALALALA)' M/V"
                             class="w-full rounded-lg cursor-pointer transition-transform duration-300 ease-in-out transform hover:scale-105 hover:drop-shadow-md">
                     </a>
                     <p class="font-secondary mt-2">Stray Kids "락 (樂) (LALALALA)" M/V</p>

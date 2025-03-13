@@ -15,7 +15,7 @@
         </div>
         <div class="w-full text-center bg-neutral-50 py-16 px-4">
             <p class="font-primary text-neutral-950 lg:text-6xl md:text-4xl text-3xl font-semibold">MERCHANDISE</p>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mx-20 my-10">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:mx-20 mx-10 my-10">
                 <!-- Product 1 -->
                 <div
                     class="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg">
@@ -165,10 +165,16 @@
         </div>
         <div class="w-full text-center bg-neutral-900 py-16 px-4 justify-items-center">
             <p class="font-primary text-neutral-50 lg:text-6xl md:text-4xl text-3xl font-semibold mt-1">LATEST RELEASE</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/ovHoY8UBIu8?si=A6zd8cXRuwRa7pWG"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="py-10"></iframe>
+            <div class="relative lg:w-[600px] md:w-[500px] w-[300px] mx-auto py-10">
+                <div class="relative w-full pb-[56.25%]">
+                    <iframe class="absolute top-0 left-0 w-full h-full"
+                        src="https://www.youtube.com/embed/ovHoY8UBIu8?si=A6zd8cXRuwRa7pWG" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
             <p class="font-secondary text-white -mt-2">Stray Kids "Walkin On Water" M/V</p>
             <button
                 class="mt-10 px-6 py-3 text-white bg-red-600 rounded-md font-semibold text-lg shadow-md transition-transform duration-300 hover:bg-red-700 hover:-translate-y-1 hover:shadow-lg">
